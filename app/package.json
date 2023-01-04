@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "build": "webpack",
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server --open"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.5",
